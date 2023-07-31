@@ -1,0 +1,6 @@
+/client-side/node_modules
+/client-side/dist
+/client-side/.env.local
+
+/server-side/node_modules
+/server-side/.env
