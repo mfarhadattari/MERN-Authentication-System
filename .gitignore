@@ -1,6 +1,8 @@
 /client-side/node_modules
 /client-side/dist
+/client-side/.netlify
 /client-side/.env.local
 
 /server-side/node_modules
+/server-side/.vercel
 /server-side/.env
